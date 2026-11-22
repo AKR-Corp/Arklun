@@ -4,7 +4,7 @@
 
 # Arklun
 
-**Tous vos jeux, launchers et émulateurs réunis dans une seule interface.**
+**Tous les jeux de votre PC dans une seule fenêtre.**
 
 ![Version](https://img.shields.io/github/v/release/AKR-Corp/Arklun?label=version&include_prereleases&color=orange)
 ![Platform](https://img.shields.io/badge/plateformes-Windows-blue)
@@ -23,19 +23,19 @@
 
 ## ✨ À propos
 
-Réunissez tous vos jeux dans **Arklun**, un launcher Windows moderne, fluide et pensé comme une console haut de gamme. Steam, Xbox, Epic Games, Ubisoft, EA, GOG, **130 émulateurs** et vos logiciels sont détectés automatiquement et rassemblés au même endroit.
+**Arklun** rassemble tous les jeux installés sur votre PC dans une seule fenêtre : Steam, Xbox, Epic Games, Ubisoft, EA, GOG et vos ROM sur **130 émulateurs**. Vous n'avez rien à configurer : il trouve vos jeux, ajoute les jaquettes et compte votre temps de jeu.
 
-Chaque jeu dispose de ses **statistiques détaillées**, vos **captures Steam et Xbox** sont regroupées dans une galerie unique, et un **menu rapide** lance n'importe quel jeu ou logiciel en quelques touches. Arklun ne fournit aucun jeu : il organise et lance ceux que vous possédez déjà.
+Un jeu ou un émulateur installé plus tard apparaît tout seul. Arklun ne fournit aucun jeu ni aucune ROM.
 
 ## 🚀 Fonctionnalités
 
-- **Tous vos launchers :** Steam, Xbox, Epic Games, GOG, Ubisoft, EA, Battle.net, Riot, Rockstar et Amazon Games réunis.
-- **Émulateurs :** 130 émulateurs et 175 systèmes reconnus, avec détection automatique des jeux.
-- **Statistiques avancées :** Temps de jeu, calendrier, habitudes, records et classements, par compte ou au global.
-- **Captures et clips :** Galerie unifiée pour Steam et Xbox, avec les médias stockés en ligne.
-- **Multi-comptes :** Changement de compte Steam en un clic et connexion de plusieurs comptes Xbox.
-- **Menu rapide :** Lancement instantané au clavier, raccourcis personnalisables et menu dans la zone de notification.
-- **Mises à jour automatiques :** Installation guidée qui conserve tous vos réglages.
+- **10 launchers :** Steam, Xbox, Epic Games, GOG, Ubisoft, EA, Battle.net, Riot, Rockstar et Amazon Games.
+- **130 émulateurs :** Dolphin, Ryujinx, PCSX2, Cemu, RPCS3, RetroArch et bien d'autres, sur 175 systèmes.
+- **Temps de jeu :** Par jeu, par compte, par jour et par heure, avec reprise de l'historique quand il existe.
+- **Comptes Steam :** Changement en quelques secondes et lancement d'un jeu sur le compte de votre choix.
+- **Captures et clips :** Steam, cloud Steam, Xbox et Minecraft dans la même galerie.
+- **Menu rapide :** Un raccourci clavier pour lancer n'importe quel jeu ou logiciel.
+- **Mises à jour :** Automatiques, signées, sans toucher à vos réglages.
 
 ## 📥 Téléchargement
 
